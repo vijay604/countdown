@@ -1,0 +1,15 @@
+.col {
+  display: flex;
+  width: 1000px;
+}
+.input {
+  display: block;
+  width: 60%;
+  height: 50%;
+}
+.cols div {
+  width: 250px;
+}
+body {
+  background: orangered;
+}
